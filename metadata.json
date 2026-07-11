@@ -1,0 +1,6 @@
+{
+  "name": "RetailMind OS",
+  "description": "AI-Powered Retail Operating System with connected workflows for ERP, POS, E-commerce, Inventory, and Enterprise AI analytics.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
